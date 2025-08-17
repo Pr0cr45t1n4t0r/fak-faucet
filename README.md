@@ -135,7 +135,6 @@ The contract provides comprehensive tracking including:
 **Language:** Clarity
 **Status:** ✅ Active
 
-*Replace with your actual deployment details:*
 ```
 Deployed Contract Address: ST1P3KSBSBZBBV8KDRQ7WZNGASWAE2BKJVN1SXP0T
 Deployment Transaction: ST1P3KSBSBZBBV8KDRQ7WZNGASWAE2BKJVN1SXP0T.faucet
