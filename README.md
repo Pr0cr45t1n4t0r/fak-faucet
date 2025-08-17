@@ -161,4 +161,5 @@ This faucet contract serves as a foundation for STX token distribution. Develope
 
 ---
 
-<img width="916" height="512" alt="{96D8CB8A-3D60-45D7-BAE6-BD8809B8F9A2}" src="https://github.com/user-attachments/assets/c54de3e5-ee13-461c-9e68-962e446b855e" />
+<img width="1920" height="918" alt="{42D2BBEC-673C-484C-AA3E-208D74946631}" src="https://github.com/user-attachments/assets/3a6d3c82-2e7b-4cd5-9443-50075d33fbd0" />
+
